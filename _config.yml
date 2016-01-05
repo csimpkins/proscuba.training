@@ -1,0 +1,4 @@
+name: Your New Jekyll Site
+markdown: redcarpet
+highlighter: pygments
+exclude: [courses/owd/videos]
